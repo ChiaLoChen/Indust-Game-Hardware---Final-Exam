@@ -27,3 +27,11 @@ Why it was done the way it was
 
 - I noticed two parts of my name have four letters which is similar to a X-box controller buttons
 - I figure a controller similar to X box would be the most common and simple solution to get work done in time
+
+Electronics simulation video link:
+
+https://youtu.be/KIrwvkTVB4o
+
+CAD exploded view video link:
+
+https://youtu.be/S9B6n1ZLXkc
