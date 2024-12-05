@@ -11,11 +11,17 @@ design steps:
 9. create the Bill of materials
 
 Explanations:
+
 What was done
+
 - A controller with my initial name that can be used in a FPS game
 - includes up, down, right, left movements
 - includes attack, reload, swap weapons, and knife buttons
+
 How it was done
+
 - using letters in my name as button placements and on press triggers the function
+
 Why it was done the way it was
+
 - I notice two parts of my name have four letters which is similar to a X box controller buttons
