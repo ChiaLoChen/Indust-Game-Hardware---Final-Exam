@@ -21,7 +21,9 @@ What was done
 How it was done
 
 - using letters in my name as button placements and on press triggers the function
+- When the buttons are pressed the Arduino would read the analogue and digital input and then output the corresponded function
 
 Why it was done the way it was
 
-- I notice two parts of my name have four letters which is similar to a X box controller buttons
+- I noticed two parts of my name have four letters which is similar to a X-box controller buttons
+- I figure a controller similar to X box would be the most common and simple solution to get work done in time
